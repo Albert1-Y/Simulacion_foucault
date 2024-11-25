@@ -1,6 +1,7 @@
-# Graphing-tree_SFML
-Graficar árbol binario con SFML 
+# Conservación de Energía en Sistemas Complejos: 
+# Análisis del Péndulo de Foucault
 
+Simulacion_foucault
 Configuracion:
 
 Direcctorios de archivo de inclusión: .\SFML-2.6.1\include;$(IncludePath)
